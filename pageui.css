@@ -1,0 +1,275 @@
+.primary-color 
+{
+  background-color: #77EAD5;
+}
+.text-primary
+{
+  color: black;
+}
+.secondary
+{
+  background-color: #CEFFBC;
+}
+.text-secondary
+{
+ color: #ffffff;
+}
+.grey-one
+{
+  background-color: #F2F2F2;
+}
+.grey-two
+{
+  background-color:#CECECE;
+}
+.grey-three
+{
+  background-color:#919191;
+}
+
+header {
+
+  font-family: 'Share Tech Mono' ;
+  text-align: center;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Share Tech Mono';
+}
+
+p{
+  font-family:'Nunito' ;
+}
+
+
+  .button-primary {
+    background-color: #914457;
+    border: 2px solid #914457;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button-success {
+    background-color: #B4CE5F;
+    border: 2px solid #B4CE5F;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button-danger{
+
+    background-color: #D14747;
+    border: 2px solid #D14747;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+  }
+
+  .button-warning{
+
+    background-color:#F4D909;
+    border: 2px solid #F4D909;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+  }
+
+  .button-info{
+
+    background-color: #77EAD5;
+    border: 2px solid  #77EAD5;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+  }
+  .btn-sm {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+ 
+  .lg {
+    padding: 18px 50px;
+
+  }
+
+  .btn-lg {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    padding: 18px 50px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .btn {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    padding: 12px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .primary {
+    border-color:#914457;
+    color: #914457;
+  }
+
+  .primary:hover {
+    background-color: #914457;
+    color: white;
+  }
+  
+  .success {
+    border-color: #B4CE5F;
+    color: #B4CE5F;
+  }
+  
+  .success:hover {
+    background-color:  #B4CE5F;
+    color: white;
+  }
+  
+  .info {
+    border-color: #77EAD5;
+    color: #77EAD5;
+  }
+  
+  .info:hover {
+    background:  #77EAD5;
+    color: white;
+  }
+  
+  .warning {
+    border-color: #F4D909;
+    color: #F4D909;
+  }
+  
+  .warning:hover {
+    background: #F4D909;
+    color: white;
+  }
+  
+  .danger {
+    border-color: #D14747;
+    color:  #D14747;
+  }
+  
+  .danger:hover {
+    background:  #D14747;
+    color: white;
+  }
+  
+  ul {
+    list-style: none;
+  }
+
+  li {
+    height: 50px;
+    width: 1000px;
+    padding-top:30px ;
+    padding-left: 10px;
+  }
+
+  body {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Nunito';
+  }
+
+  .titre  {
+    color:  #914457 ;
+  }
+  
+  .justify  {
+
+  text-align: justify;
+  margin: 10px;
+  }
+
+  #fname{
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color:  #914457;
+  background-color: ;
+  padding: 0 10px;
+  font-family: 'Nunito';
+    font-size: 15px;
+
+  }
+
+
+  input:focus {
+    outline: none;
+   
+  }
+
+  select {
+    width: 325px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px;
+  border-style: solid;
+  border-color:  #914457;
+  }
+
+  select:focus {
+    outline: none;
+  }
+
+
+  label {
+    font-family: 'Nunito';
+  }
+
+  
+  .centrage {
+   
+    text-align: center;
+  }
+
+#checkbox {
+
+  margin-left: 50px;
+  
+  }
+
+  #radio {
+
+    margin-left: 50px;
+  }
